@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/timeaturdean/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-F75C7E?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://timea.solidcommunity.net" target="_blank"><img src="https://img.shields.io/badge/Solid-blueviolet?style=flat-square" alt="Solid WebID"/></a>
+  <a href="https://timea.solidcommunity.net" target="_blank"><img src="https://img.shields.io/badge/Solid-WebID-blueviolet?style=flat-square" alt="Solid WebID"/></a>
   <a href="https://twitter.com/TimeaTurdean" target="_blank"><img src="https://img.shields.io/badge/-Twitter-F75C7E?style=flat-square&logo=Twitter&logoColor=white" alt="linkedin"/></a>
 </p>
 

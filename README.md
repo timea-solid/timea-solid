@@ -14,11 +14,12 @@
 
 <!--START_SECTION:waka-->
 
-- 🔭 I’m currently working on an overview of Solid basic code examples. I call it [Solid Hello Worlds](https://timea.solidcommunity.net/HelloWorld/) 
-- 🌱 I’m currently learning Node with JS and TS as well as SolidOS stack
-- 💬 Ask me about Solid and Knowledge Graphs
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to boulder and Klettersteigen
+- 👩🏽‍💻 I’m currently working on a Solid Java library;
+- 🌱 In my free time I am working on a [Solid Period Tracker](https://github.com/timea-solid/SolidPeriodTracker);
+- 🔭 Previous personal project: [Solid Hello Worlds](https://timea.solidcommunity.net/HelloWorld/) a search for Solid basic code examples;
+- 💬 Ask me about Solid and Knowledge Graphs, for example over on [Gitter](https://gitter.im/timea-solid);
+- 😄 Pronouns: she/her;
+- ⚡ Fun fact: I like to boulder and Klettersteigen.
 
 
  Last Updated on 30/06/2022 00:56:08 UTC

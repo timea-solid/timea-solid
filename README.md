@@ -17,7 +17,7 @@
 - 👩🏽‍💻 I’m currently working on a Solid Java library;
 - 🌱 In my free time I am working on a [Solid Period Tracker](https://github.com/timea-solid/SolidPeriodTracker);
 - 🔭 Previous personal project: [Solid Hello Worlds](https://timea.solidcommunity.net/HelloWorld/) a search for Solid basic code examples;
-- 💬 Ask me about Solid and Knowledge Graphs, for example over on [Gitter](https://gitter.im/timea-solid);
+- 💬 Ask me about Solid and Knowledge Graphs, for example over on [Matrix](https://matrix.to/#/#solid_solidos:gitter.im);
 - 😄 Pronouns: she/her;
 - ⚡ Fun fact: I like to boulder and Klettersteigen.
 

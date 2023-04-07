@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 
-- 👩🏽‍💻 I’m currently working on a Solid Java library;
+- 👩🏽‍💻 I’m currently working on a [Solid Java library](https://github.com/inrupt/solid-client-java);
 - 🌱 In my free time I am working on a [Solid Period Tracker](https://github.com/timea-solid/SolidPeriodTracker);
 - 🔭 Previous personal project: [Solid Hello Worlds](https://timea.solidcommunity.net/HelloWorld/) a search for Solid basic code examples;
 - 💬 Ask me about Solid and Knowledge Graphs, for example over on [Matrix](https://matrix.to/#/#solid_solidos:gitter.im);
